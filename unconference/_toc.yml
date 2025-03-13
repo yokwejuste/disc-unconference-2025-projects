@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+# chapters:
+#   - file: mentoring_guide_projects.md
+#     sections:
+#     - file: mentoring_onboarding_checklist.md
+#     - file: mentoring_meeting_template.md
+#   - file: Project_taxonomy_recommendations.md
+#   - file: methodologies_collecting_data.md
+#     sections:
+#     - file: methodologies_collecting_data_nps.md
+#     - file: methodologies_collecting_data_demografic.md
+#     - file: methodologies_collecting_data_looking_forward.md
+#   - file: volunteer-support-guide.md
+#   - file: hidden-curriculum.md
+#   - file: DEI_handbook.md

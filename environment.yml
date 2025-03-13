@@ -1,0 +1,8 @@
+name: unconference
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - jupyterlab
+  - pip:
+    - sphinx-intl
