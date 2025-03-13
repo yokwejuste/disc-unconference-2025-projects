@@ -30,8 +30,8 @@ html_show_copyright = False
 html_static_path = ["images"]  # Ensure images/ contents go to _static/
 html_theme_options = {
     "logo": {
-        "image_light": "images/DISC-RGB-Icon.svg",
-        "image_dark": "images/DISC-RGB-Icon.svg",
+        "image_light": "images/logo.png",
+        "image_dark": "images/logo-darkbg.png",
     },
     "search_bar_text": "Search this book...",
     "launch_buttons": {
