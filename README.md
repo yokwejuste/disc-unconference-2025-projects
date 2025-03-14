@@ -45,7 +45,7 @@ to the language code you want to use, e.g. `es`.
 
 ### GitHub pages
 
-This repository comes with a [pre-defined GitHub pages setup](https://github.com/melissawm/disc-unconference-project/blob/main/.github/workflows/pages.yml).
+This repository comes with a [pre-defined GitHub pages setup](https://github.com/numfocus/disc-unconference-project/blob/main/.github/workflows/pages.yml).
 
 You can then access this site at `https://numfocus.github.io/disc-unconference-2025-projects/`.
 
