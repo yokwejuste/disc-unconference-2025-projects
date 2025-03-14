@@ -16,8 +16,8 @@ extensions = [
     "sphinx_book_theme",
     "sphinx_jupyterbook_latex",
 ]
-language = os.environ.get("WEBSITE_LANGUAGE", "en")
-locale_dirs = ["../locales"]
+#language = os.environ.get("WEBSITE_LANGUAGE", "en")
+#locale_dirs = ["../locales"]
 gettext_uuid = True
 gettext_compact = False
 external_toc_exclude_missing = False
@@ -49,11 +49,11 @@ html_theme_options = {
     "use_repository_button": True,
     "use_edit_page_button": False,
     "use_issues_button": True,
-    "article_header_start": ["toggle-primary-sidebar", "version-switcher"],
-    "switcher": {
-        "json_url": "https://raw.githubusercontent.com/numfocus/disc-unconference-2025-projects/main/switcher.json",
-        "version_match": language,
-    },
+    "article_header_start": ["toggle-primary-sidebar"], #, "version-switcher"],
+    # "switcher": {
+    #     "json_url": "https://raw.githubusercontent.com/numfocus/disc-unconference-2025-projects/main/switcher.json",
+    #     "version_match": language,
+    # },
     "announcement": "All documents in this repository are in draft status, and work is expected to continue on improvements, additions, and corrections.",
 }
 html_title = "DISC Unconference 2025 Projects"
