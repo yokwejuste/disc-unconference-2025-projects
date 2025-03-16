@@ -8,7 +8,7 @@ Systemic inequities in research funding, exacerbated by institutional hierarchie
 
 Curate resources, recommendations and practices, and share openly to support organisations and groups working with researchers in LMIC and Marginalised groups.
 
-### Connection with a project from previous DISC
+### Connection with a project from a previous DISC
 
 During last year's DISC conference, a project under "Hidden Curriculum" was developed, which will be used in starting the discussion.
 - GitHub repo: https://github.com/open-life-science/knowhow/blob/main/hidden-curriculum.md
@@ -78,11 +78,11 @@ A significant point of discussion was the need to step back from solely focusing
 * Building a compelling narrative: Developing "storytelling skills for a funding call" and understanding how to interpret "tacit expectations to make proposals attractive to funders".
 * Communication with funders: Developing skills for "communicating with funding agencies outside of the application process to understand their goals better".
 * Critical reading of successful proposals: Learning to "read good proposals so they are exposed to good proposals that they generally do not have opportunities to apply for".
-* Building relationships and networks: Interacting with people behind funding programmes, including through "cold calls" (Oliver), and understanding the importance of "meetings and networking".
+* Building relationships and networks: Interacting with people behind funding programmes, including through "cold calls", and understanding the importance of "meetings and networking".
 
 ### Leveraging Systems Thinking and Identifying Leverage Points
 
-Discussion incorporated a systems thinking approach _to understand the complexities of the research funding ecosystem and identify "leverage points" – places to intervene for significant impact_ -- cautioning against solely focusing on a "lack of skills" narrative, as this might overlook "systemic barriers" (IreneR).
+Discussion incorporated a systems thinking approach _to understand the complexities of the research funding ecosystem and identify "leverage points" – places to intervene for significant impact_ -- cautioning against solely focusing on a "lack of skills" narrative, as this might overlook "systemic barriers".
 
 Examples of leverage points discussed include:
 * Successful interdisciplinary and cross-institutional collaborations.
@@ -96,9 +96,9 @@ Examples of leverage points discussed include:
 The analogy of funding being like "dating" was introduced to emphasise the importance of "finding overlap in interests, rather than them pushing their agenda". This involves:
 
 * Understanding the funders' goals and values.
-* Being authentic and demonstrating the mutual benefit of the project. As Herve stated, "Be authentic, show them how beneficial your project is for them."
-* Having a "roadmap, vision/mission/goals" ready (Kate).
-* Understanding what funders have supported in the past to identify potential alignment (Eunice).
+* Being authentic and demonstrating the mutual benefit of the project: "Be authentic, show them how beneficial your project is for them."
+* Having a "roadmap, vision/mission/goals" ready.
+* Understanding what funders have supported in the past to identify potential alignment.
 
 ### Capacity Building as Infrastructure and the Importance of Practice
 
@@ -128,7 +128,7 @@ The Day 2 session dedicated time to developing initial personas of individuals a
 
 These personas will be further developed through case studies, including examples of successful and unsuccessful grant applications, to identify unique versus replicable aspects of their journeys and the skills required. 
 
-The case studies will be fleshed out and embedded in the curriculum, allowing learners to build understanding by making things seem more immediate, aiding in internalising the learning.
+The case studies will be fleshed out and embedded in the curriculum, allowing learners to build understanding by making things seem more immediate, and aiding in internalising the learning.
 
 ## Key Skills and Considerations
 
@@ -157,8 +157,8 @@ The session concluded with a discussion of the next steps, including further dev
 * What patterns and behaviours are most easily shareable given that individual circumstances cannot be replicated?
 * How would we integrate these in the curriculum for a general audience, and how will the training be complemented by individual support and coaching (for example in contexts that are too regional-specific)?
 * How can the training reach grant writing offices and relevant institutional stakeholders beyond researchers?
-* What other skills beyond grant writing are crucial for sustainability and impact (e.g., budgeting, leadership, mentoring)? How to teach skills like asking for help professionally in a way that fosters genuine relationships?
+* What other skills beyond grant writing are crucial for sustainability and impact (for example, budgeting, leadership, mentoring)? How to teach skills like asking for help professionally in a way that fosters genuine relationships?
 
 ## Connect with us
 
-If you'd like to contribute to this work, please reach out to the session lead Malvika Sharan (malvika@we-are-ols.org) and Irene Ramos (irene@we-are-ols.org).
+You can contribute to this work! Please reach out to the session lead Malvika Sharan (malvika@we-are-ols.org) and Irene Ramos (irene@we-are-ols.org).
