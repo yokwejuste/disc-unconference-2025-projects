@@ -3,7 +3,8 @@
 
 format: jb-book
 root: intro
-# chapters:
+chapters:
+  - file: navigating-funding-landscape.md
 #   - file: mentoring_guide_projects.md
 #     sections:
 #     - file: mentoring_onboarding_checklist.md
@@ -15,5 +16,4 @@ root: intro
 #     - file: methodologies_collecting_data_demografic.md
 #     - file: methodologies_collecting_data_looking_forward.md
 #   - file: volunteer-support-guide.md
-#   - file: hidden-curriculum.md
 #   - file: DEI_handbook.md
