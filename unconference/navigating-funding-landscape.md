@@ -1,4 +1,4 @@
-# Navigating funding landscape for research in Low-to-middle-income countries and marginalised groups
+# Navigating the funding landscape for research in Low-to-middle-income countries and marginalised groups
 
 ## Challenge
 
@@ -8,7 +8,7 @@ Systemic inequities in research funding, exacerbated by institutional hierarchie
 
 Curate resources, recommendations and practices, and share openly to support organisations and groups working with researchers in LMIC and Marginalised groups.
 
-### Connection witj a project from previous DISC
+### Connection with a project from previous DISC
 
 During last year's DISC conference, a project under "Hidden Curriculum" was developed, which will be used in starting the discussion.
 - GitHub repo: https://github.com/open-life-science/knowhow/blob/main/hidden-curriculum.md
@@ -19,7 +19,7 @@ Researchers from LMIC and Marginalised groups (but maybe all researchers)
 
 ## Outputs
 
-Outputs from this work will be supported by OLS team to be edited and shared under CC-By 4.0 - with clear and appropriate authorship and credits. Outputs from this will inform the development of a curriculum draft as part of a newly funded project to help promote skills under the same theme.
+Outputs from this work will be supported by the OLS team to be edited and shared under CC-By 4.0 - with clear and appropriate authorship and credits. Outputs from this will inform the development of a curriculum draft as part of a newly funded project to help promote skills under the same theme.
 
 The long-term goal of this project is to provide advanced training and mentoring through the involvement of Open Science practitioners and community leaders (with all materials shared openly for anyone to use).
 
@@ -102,7 +102,7 @@ The analogy of funding being like "dating" was introduced to emphasise the impor
 * Having a "roadmap, vision/mission/goals" ready (Kate).
 * Understanding what funders have supported in the past to identify potential alignment (Eunice).
 
-### apacity Building as Infrastructure and the Importance of Practice
+### Capacity Building as Infrastructure and the Importance of Practice
 
 The session explored the concept of capacity building as infrastructure, recognising that the human and financial infrastructure needed for successful grant writing is often lacking and difficult to transfer through traditional teaching. IreneR raised the question of "how can we create spaces for practice on smaller scales? What kind of learning spaces are needed to develop skills and how can we think about capacity building as infrastructure itself?"
 
