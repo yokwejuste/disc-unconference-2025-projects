@@ -5,6 +5,7 @@
 :avatar-outline: muted
 :author: "Malvika Sharan, Irene Ramos, Herve Aniglo, Kate Hertweck, Abigail Mesrenyame Dogbe, Andrés Olivera “oliver”, Laura Acion, Ashley Pace, Eunice Mercado-Lara, David Chapuis, Yanina Bellini Saibene, Nicolas Palopoli"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
+```
 
 ## Challenge
 
