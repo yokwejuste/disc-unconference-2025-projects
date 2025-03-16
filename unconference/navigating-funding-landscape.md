@@ -1,5 +1,11 @@
 # Navigating the funding landscape for research in Low-to-middle-income countries and marginalised groups
 
+```{article-info}
+:avatar: images/disc-icon.jpg
+:avatar-outline: muted
+:author: "Malvika Sharan, Irene Ramos, Herve Aniglo, Kate Hertweck, Abigail Mesrenyame Dogbe, Andrés Olivera “oliver”, Laura Acion, Ashley Pace, Eunice Mercado-Lara, David Chapuis, Yanina Bellini Saibene, Nicolas Palopoli"
+:class-container: sd-p-2 sd-outline-muted sd-rounded-1
+
 ## Challenge
 
 Systemic inequities in research funding, exacerbated by institutional hierarchies, language barriers, and unequal collaborations, hinder underrepresented researchers, particularly those from marginalised groups and low-resource settings. A lack of clear pathways to understand available funding opportunities, effective approaches to accessing funding, and established networks where experienced members share skills and resources, diminish the chances of securing appropriate funding for most research initiatives. This results in wasted resources, limited impact, and the further exclusion of valuable perspectives. Targeted support, including guided support for funding, mentorship, and training, is crucial to unlocking the full potential of our diverse, international research community.
@@ -22,22 +28,6 @@ Researchers from LMIC and Marginalised groups (but maybe all researchers)
 Outputs from this work will be supported by the OLS team to be edited and shared under CC-By 4.0 - with clear and appropriate authorship and credits. Outputs from this will inform the development of a curriculum draft as part of a newly funded project to help promote skills under the same theme.
 
 The long-term goal of this project is to provide advanced training and mentoring through the involvement of Open Science practitioners and community leaders (with all materials shared openly for anyone to use).
-
-## Contributors
-
-**Name / GitHub**
-* Malvika Sharan / @malvikasharan 
-* Irene Ramos / @iramosp
-* Herve Aniglo /
-* Kate Hertweck / @k8hertweck
-* Abigail Mesrenyame Dogbe / @mesrenyamedogbe
-* Andrés Olivera “oliver” /  
-* Laura Acion / /
-* Ashley Pace / @ashmpace
-* Eunice Mercado-Lara / 
-* David / @davidchapuis /
-* Yanina Bellini Saibene
-* Nicolas Palopoli
 
 ## Resources
 
