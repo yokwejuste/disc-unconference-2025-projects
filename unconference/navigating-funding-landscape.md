@@ -33,11 +33,11 @@ The long-term goal of this project is to provide advanced training and mentoring
 * Abigail Mesrenyame Dogbe / @mesrenyamedogbe
 * Andrés Olivera “oliver” /  
 * Laura Acion / /
-* Nicolas Palopoli
-* Ashley / @ashmpace
+* Ashley Pace / @ashmpace
 * Eunice Mercado-Lara / 
 * David / @davidchapuis /
 * Yanina Bellini Saibene
+* Nicolas Palopoli
 
 ## Resources
 
