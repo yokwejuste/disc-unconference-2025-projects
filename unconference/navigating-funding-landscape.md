@@ -3,7 +3,7 @@
 ```{article-info}
 :avatar: images/disc-icon.jpg
 :avatar-outline: muted
-:author: "Malvika Sharan, Irene Ramos, Herve Aniglo, Kate Hertweck, Abigail Mesrenyame Dogbe, Andrés Olivera “oliver”, Laura Acion, Ashley Pace, Eunice Mercado-Lara, David Chapuis, Yanina Bellini Saibene, Nicolas Palopoli"
+:author: "[Malvika Sharan](https://github.com/malvikasharan), [Irene Ramos](https://github.com/iramosp), Herve Aniglo, [Kate Hertweck](https://github.com/k8hertweck), [Abigail Mesrenyame Dogbe](https://github.com/mesrenyamedogbe), [Andrés Olivera “oliver”](https://github.com/), Laura Acion, [Ashley Pace](https://github.com/ashmpace), Eunice Mercado-Lara, [David Chapuis](https://github.com/davidchapuis), [Yanina Bellini Saibene](https://github.com/yabellini), Nicolas Palopoli"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
 
