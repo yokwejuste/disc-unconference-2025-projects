@@ -45,11 +45,9 @@ The long-term goal of this project is to provide advanced training and mentoring
 
 ### Three proposed objectives
 
-1. Understand the personas of experts (those who have learned how to navigate the system): skills, opportunities, tendencies or patterns that shape how they engage and interact with the system
-  - Potential mentors and trainers
-1. Map the engagement pathways for learners with the system: What kinds of engagement process this programme should build so we develop and deliver this curriculum with engagement with the right actors in the system
-  - Case studies of learning from personas above - unique vs replicable (sustainability)
-1. Identifying leverage points: Positive feedback loop for the system (most likely tomorrow) 
+* Understand the personas of experts (those who have learned how to navigate the system): skills, opportunities, tendencies or patterns that shape how they engage and interact with the system (potential mentors and trainers)
+* Map the engagement pathways for learners with the system: What kinds of engagement process this programme should build so we develop and deliver this curriculum with engagement with the right actors in the system - Case studies of learning from personas above - unique vs replicable (sustainability)
+* Identifying leverage points: Positive feedback loop for the system (most likely tomorrow) 
 
 ### Personas and pathways of experts
 
