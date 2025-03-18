@@ -1,5 +1,12 @@
 # Creating an Open Mentorship Initiative
 
+```{article-info}
+:avatar: images/disc-icon.jpg
+:avatar-outline: muted
+:author: "[Anna e só](https://github.com/contraexemplo), [](https://github.com/Schefflera-Arboricola), [ Ana Ruvalcaba](https://github.com/ruv7), [Ariane Djeupang](https://github.com/Arya-AD), [David Chapuis](https://github.com/davidchapuis), [Deborah Udoh](https://github.com/npdebs), [Harmony Elendu](https://github.com/harmonyelendu), [Ijeoma Onwuka](https://github.com/Ijeoma-Onwuka), [Julius Boakye](https://github.com/Darkbeast-glitch), [Kweyakie A. Blebo](https://github.com/AfiDede), [Omotola Omotayo](https://github.com/ElegantTolly), [Sage Sharp](https://github.com/sagesharp), [Yani Bellini](https://github.com/yabellini), [Yashasvi Misra](https://github.com/yashasvimisra2798)"
+:class-container: sd-p-2 sd-outline-muted sd-rounded-1
+```
+
 ## Participants
 ### In-person track
 
