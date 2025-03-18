@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 chapters:
   - file: navigating-funding-landscape.md
-#   - file: mentoring_guide_projects.md
+  - file: creating_an_open_mentorship_initiative.md
 #     sections:
 #     - file: mentoring_onboarding_checklist.md
 #     - file: mentoring_meeting_template.md
