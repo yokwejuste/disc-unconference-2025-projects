@@ -3,7 +3,7 @@
 ```{article-info}
 :avatar: images/disc-icon.jpg
 :avatar-outline: muted
-:author: "[Anavelyz Perez](https://github.com/Anavelyz), [David Chapuis](https://github.com/davidchapuis), [Francisco Palm](https://github.com/map0logo), [Yurely Camacho](https://github.com/YurelyCamacho)"
+:author: "[Anavelyz Perez](https://github.com/Anavelyz), [David](https://github.com/davidchapuis),[Ehizojie](https://github.com/ehizojie1), [Francisco Palm](https://github.com/map0logo), [Yurely Camacho](https://github.com/YurelyCamacho)"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
 
