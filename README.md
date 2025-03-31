@@ -28,7 +28,7 @@ or
 
 ```bash
 conda env create -f environment.yml
-conda activate project
+conda activate unconference
 ```
 
 Then, run
